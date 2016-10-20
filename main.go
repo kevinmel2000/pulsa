@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tokopedia/points/src/jsonapi"
+	"github.com/nyelonong/gommon/jsonapi"
 )
 
 const (
